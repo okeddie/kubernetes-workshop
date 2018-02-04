@@ -790,7 +790,7 @@ kubectl get service flaskiservice
 
 * Our application currently only returns a string
 * Let's add a database to our application
-* Go to `/root/workshop/simple_flask`
+* Go to `/root/workshop/simple_flask` (or check out of https://goo.gl/Cg6vkf)
 * `git checkout redis`
 
 We have added a simple redis-dependent function in our app.
